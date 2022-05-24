@@ -8,7 +8,7 @@ As estatísticas de uso do Lambda através da função `lambda.getAccountSetting
 {
   "TotalCodeSize": 1007,
   "FunctionCount": 1
-} 
+}
 ```
 
 ### O que foi realizado:
