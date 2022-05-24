@@ -18,7 +18,7 @@ const formatResponse = function(body){
         },
         "isBase64Encoded": false,
         "body": body
-    }
+    } 
     return response
 }
 
